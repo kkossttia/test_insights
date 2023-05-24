@@ -1,5 +1,5 @@
 int three( int i )
 {
-  return ++i;
+  return ++i+1;
 }
 
